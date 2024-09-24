@@ -39,17 +39,6 @@ main{
 }
 section{
     border: 1px solid white;
-    
-
-}
-section>div{
-    border: 1px solid white;
-    width: 100px;
-    height: 80px;
-    display: flex;
-    flex-direction: column;
-    justify-content: right;
-    
-
+    color:white ;
 
 }
